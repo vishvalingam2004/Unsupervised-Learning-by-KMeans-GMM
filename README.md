@@ -1,4 +1,4 @@
-# Unsupervised-Learning-by-KMeans & GMM for iris dataset
+# Unsupervised-Learning-by-KMeans Clustering & Gaussian mixture model (EM) for iris dataset
 Unsupervised learning machine learning model
 # LIBRARY USED
 # KMeans
